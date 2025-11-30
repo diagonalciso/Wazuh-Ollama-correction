@@ -5,7 +5,7 @@ https://wazuh.com/blog/leveraging-artificial-intelligence-for-threat-hunting-in-
 I played with it on a sunday afternoon:
 https://x.com/CisoDiagonal/status/1995081833739149532?t=ZG3q--2SZJ_AUlhsjRqV9g&s=19
 
-The problem is langchain but the install procedure seems also be missing some important stuff. The latest installation of langchain broke some stuff importing modules, so here is the correct code for installing pyhton3 and threathunter.py
+The problem is langchain but the install procedure seems also to be missing some important stuff. The latest installation of langchain broke some stuff importing modules, so here is the correct code for installing pyhton3 and threathunter.py
 I'm running Ubuntu 24.04
 
 Add the following to the installation procedure after installing python3:
